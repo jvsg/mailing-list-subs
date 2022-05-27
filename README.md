@@ -6,3 +6,4 @@
 3. arch-general
 4. freebsd-performance
 5. freebsd-questions
+6. aerc-dev
