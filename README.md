@@ -11,3 +11,7 @@
 - freebsd-dtrace
 - freebsd-jobs
 - freebsd-hackers
+- discuss.mandoc
+- tech.mandoc
+- source.mandoc
+
