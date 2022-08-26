@@ -14,4 +14,8 @@
 - discuss.mandoc
 - tech.mandoc
 - source.mandoc
-
+- tech.openbsd
+- misc.openbsd
+- libressl.openbsd
+- arm.openbsd
+- announce.openbsd
