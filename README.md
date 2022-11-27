@@ -3,7 +3,6 @@
 
 - freebsd-performance
 - freebsd-questions
-- aerc-devel
 - aerc-announce
 - aerc-discuss
 - freebsd-security
